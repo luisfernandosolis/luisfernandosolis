@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hey there! I'm Luis Fernando Solis Navarro 👋 </h1>
+<h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
 <h3 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
