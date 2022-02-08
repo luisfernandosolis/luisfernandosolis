@@ -4,11 +4,9 @@
 
 
 <h2 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h2>
-<br>
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
-
 <br />
 
 <div>
