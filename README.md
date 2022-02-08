@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h1 align="center">Hey there! I'm Luis Fernando Solis Navarro 👋 </h1>
+<h3 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  
+  - 🤔 &nbsp; Soy de Perú(Ayacucho)
+  - 🤔 &nbsp; Me gusta explorar nuevas tecnologías e Investigar
+  - 🎓 &nbsp; Estudio Ingeniería de Sistemas
+  - 💼 &nbsp; He tenido experiencia trabajando como Analista de datos. 
+  - 🌱 &nbsp; Aprendiendo e investigando sobre NLP
+  - ✍️ &nbsp; En mis tiempos libres juego Fortnite <3
 </div> 
 </div>
 
