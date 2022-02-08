@@ -1,10 +1,9 @@
 ### Hi there 👋
-![1618852617283](https://user-images.githubusercontent.com/39033189/153089273-df3899d9-411b-40e2-85cd-c4f5bbb8afde.jpg)
 
 <h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
 <h3 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://user-images.githubusercontent.com/39033189/153089273-df3899d9-411b-40e2-85cd-c4f5bbb8afde.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
