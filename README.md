@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
+
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i0rCJGIGzRTcf-Hq2k3_LZdGQvvdsu03/view)*
 &nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://github.com/rkasale28/rkasale28/tree/master/Certificates)*
 <br />
