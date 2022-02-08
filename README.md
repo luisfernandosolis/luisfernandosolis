@@ -3,7 +3,7 @@
 <h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
 <h3 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://user-images.githubusercontent.com/39033189/153089273-df3899d9-411b-40e2-85cd-c4f5bbb8afde.jpg" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://github.com/rkasale28/rkasale28/blob/master/icons/avatar.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
