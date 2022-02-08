@@ -7,12 +7,12 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🤔 &nbsp; Soy de Perú(Ayacucho)
-  - 🤔 &nbsp; Me gusta explorar nuevas tecnologías e Investigar
-  - 🎓 &nbsp; Estudio Ingeniería de Sistemas
-  - 💼 &nbsp; He tenido experiencia trabajando como Analista de datos. 
-  - 🌱 &nbsp; Aprendiendo e investigando sobre NLP
-  - ✍️ &nbsp; En mis tiempos libres juego Fortnite <3
+  - 🤔 &nbsp; I'm from Perú (Ayacucho)
+  - 🤔 &nbsp; I like to Explore new technologies and explore new oportunities.
+  - 🎓 &nbsp; I'm Study System Engineering
+  - 💼 &nbsp; I was work like a Data Analytics. 
+  - 🌱 &nbsp; Currently I'm research in Natural Lenguage Programming
+  - ✍️ &nbsp; I love play Fortnite <3
 </div> 
 </div>
 
