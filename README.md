@@ -40,7 +40,6 @@
 |✉️ *luissolis081@gmail.com \| luis.solis.27@unsch.edu.pe*|
 |<a href="https://www.felucho.pe/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/luisfernandosolisnavarro/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/luisfernandosolis"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
 
 <!--
 **luisfernandosolis/luisfernandosolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
