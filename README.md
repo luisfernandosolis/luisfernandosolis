@@ -5,8 +5,7 @@
 
 <h2 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h2>
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1rIcxeWl7fEHwAH8OlMCnPu2y83IehxtJ/view?usp=sharing)*
-&nbsp; &nbsp; |  &nbsp; &nbsp; *[View My Certificates](https://drive.google.com/drive/folders/11txskyUL9T6qJ2-pWEaPxR7p81QZPZzC?usp=sharing)*
+
 <br />
 
 <div>
