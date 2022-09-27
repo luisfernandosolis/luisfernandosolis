@@ -17,7 +17,7 @@
   - 🤔 &nbsp; I like to Explore new technologies and explore new oportunities.
   - 🎓 &nbsp; I'm Study System Engineering
   - 💼 &nbsp; I was work like a Data Analytics. 
-  - 🌱 &nbsp; Currently I'm research in Natural Lenguage Programming
+  - 🌱 &nbsp; Currently I'm research in Natural Lenguage Processing
   - 💻  &nbsp; I love play Fortnite <3
 </div> 
 </div>
