@@ -3,7 +3,7 @@
 <h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
 
 
-<h2 align="center">🚀 Python Developer | Backend Dev with Django| Open Source ♥ | Data Scientist Aspitant | Startup Entrepreneur🚀</h2>
+<h2 align="center">🚀 Natural Language Processing Researcher | Msc Student in Computer Science at UNICAMP, Brazil.</h2>
 
 
 <br />
