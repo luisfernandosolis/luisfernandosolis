@@ -13,7 +13,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🤔 &nbsp; I'm from Perú (Ayacucho)
+  - 🤔 &nbsp; I'm from Perú 🇵🇪
   - 🤔 &nbsp; I like to Explore new technologies and explore new oportunities.
   - 🎓 &nbsp; I was Study System Engineering
   - 💼 &nbsp; I was work like a Data Analytics. 
