@@ -15,10 +15,9 @@
   
   - 🤔 &nbsp; I'm from Perú (Ayacucho)
   - 🤔 &nbsp; I like to Explore new technologies and explore new oportunities.
-  - 🎓 &nbsp; I'm Study System Engineering
+  - 🎓 &nbsp; I was Study System Engineering
   - 💼 &nbsp; I was work like a Data Analytics. 
-  - 🌱 &nbsp; Currently I'm research in Natural Lenguage Processing
-  - 💻  &nbsp; I love play Fortnite <3
+  - 🌱 &nbsp; Currently I'm research in Natural Lenguage Processing and Large Language Models
 </div> 
 </div>
   
