@@ -3,7 +3,7 @@
 <h1 align="center">I'm Luis Fernando Solis Navarro 👋 </h1>
 
 
-<h2 align="center">🚀 Natural Language Processing Researcher | Msc Student in Computer Science at UNICAMP, Brazil.</h2>
+<h2 align="center">🚀 Natural Language Processing Researcher | Msc Student in Computer Science at UNICAMP, Brazil 🇧🇷.</h2>
 
 
 <br />
@@ -35,8 +35,8 @@
 |  <a href="https://github.com/rkasale28"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/engineer.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |📞 *+51 994180499*|
-|✉️ *luissolis081@gmail.com \| luis.solis.27@unsch.edu.pe*|
-|<a href="https://www.felucho.pe/"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/luisfernandosolisnavarro/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/luisfernandosolis"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
+|✉️ *luissolis081@gmail.com \| l214616@dac.unicamp.br*|
+|<a href="https://beacons.ai/lfsolisnavarro"><img src="https://github.com/rkasale28/rkasale28/blob/master/icons/icons8-website-96.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/luisfernandosolisnavarro/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/luisfernandosolis"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; |
 
 
 <!--
