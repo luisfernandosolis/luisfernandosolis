@@ -14,9 +14,8 @@
   <h3> 👨🏻‍💻 About Me </h3>
   
   - 🤔 &nbsp; I'm from Perú 🇵🇪
-  - 🤔 &nbsp; I like to Explore new technologies and explore new oportunities.
-  - 🎓 &nbsp; I was Study System Engineering
-  - 💼 &nbsp; I was work like a Data Analytics. 
+  - 🎓 &nbsp; I scs student in computer science
+  - 💼 &nbsp; I'm working as a data scientist. 
   - 🌱 &nbsp; Currently I'm research in Natural Lenguage Processing and Large Language Models
 </div> 
 </div>
